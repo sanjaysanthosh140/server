@@ -1,0 +1,14 @@
+{
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1"
+  }
+}
